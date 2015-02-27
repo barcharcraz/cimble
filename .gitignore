@@ -1,0 +1,5 @@
+nimcache
+*.ilk
+*.obj
+*.pdb
+*.swp
